@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Plant Store 2.0</string>
+    <string name="indoor_plants">Indoor Plants</string>
+    <string name="view_all">View All</string>
+    <string name="pots_and_planters">Pots and Planters</string>
+    <string name="category">CATEGORY</string>
+    <string name="enter_category">Enter Category</string>
+    <string name="size">SIZE</string>
+    <string name="small">Small</string>
+    <string name="this_small_green_and_red_succulent_grows_in_the_shape_of_a_star_giving_it_its_christmas_name_yellow_bumps_run_across_the_leaves_and_border_the_edges_it_turns_more_red_when_happily_stressed_christmas_carol_has_red_pink_flowers_that_typically_bloom_in_the_fall">This small green and red succulent grows in the shape of a star giving it its Christmas name. Yellow bumps run across the leaves and border the edges. It turns more red when happily stressed. Christmas Carol’ has red-pink flowers that typically bloom in the fall.</string>
+    <string name="free_delivery">* Free Delivery</string>
+    <string name="details">Details</string>
+    <string name="care">Care</string>
+    <string name="delivery">Delivery</string>
+    <string name="type">TYPE</string>
+    <string name="description">Description</string>
+    <string name="placement">PLACEMENT</string>
+    <string name="pot">POT</string>
+    <string name="layer">LAYER</string>
+    <string name="height">HEIGHT</string>
+    <string name="dimensions">DIMENSIONS</string>
+    <string name="title">Title</string>
+</resources>
